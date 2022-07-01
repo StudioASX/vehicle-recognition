@@ -15,4 +15,4 @@ Vehicle Recognition With Convolutional Neural Networks (CNN)
 <br>
 <div style="font-weight:bold"> 学生邮箱：wangrunyi19@lzu.edu.cn</div>
 <br>
-<div style="font-weight:bold"> 项目链接：wangrunyi19@lzu.edu.cn</div>
+<div style="font-weight:bold"> 项目链接：https://github.com/StudioASX/vehicle-recognition</div>
